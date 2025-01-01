@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Hey, I am Rasha Hasoon
 ⚡ I’m a Front End Developer<br>🔭 Currently into AI and Data Science<br>🌱 Passionate about communities <br>💬 Talk to me about innovative tech<br>
 
 
